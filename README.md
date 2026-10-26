@@ -4617,6 +4617,26 @@ Productivity
 </details>
 
 
+## [Lantern Works](https://thelanternworks.com)
+No-auth JSON feed of work-stack deals and free tiers for AI agents
+
+<details>
+
+### Category
+Tool for agents
+
+### Description
+- 137 listings (proxies/scrapers, compute, hosting, search APIs, email) published as a single JSON feed that agents can GET and filter locally
+- Comparison pages show only vendor-verified pricing; unverified prices are marked unknown
+- Disclosure: many listings are affiliate links; each entry carries an `affiliate` flag
+
+### Links
+- [Web](https://thelanternworks.com)
+- [JSON feed](https://thelanternworks.com/deals.json)
+
+</details>
+
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
