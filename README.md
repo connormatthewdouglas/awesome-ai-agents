@@ -4635,6 +4635,7 @@ Tool for agents
 - [Web](https://thelanternworks.com)
 - [JSON feed](https://thelanternworks.com/deals.json)
 - [Stack optimizer](https://thelanternworks.com/stack/)
+- [Hosted MCP endpoint, no install](https://lantern-works-mcp.lantern-works.workers.dev/mcp?ref=e2b)
 
 </details>
 
