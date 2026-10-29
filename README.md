@@ -4627,7 +4627,7 @@ Tool for agents
 
 ### Description
 - 200+ listings (proxies/scrapers, compute, hosting, search APIs, email) published as a single JSON feed that agents can GET and filter locally
-- Read-only MCP server (`uvx lantern-works-deals-mcp`, MIT) with 6 tools, including `optimize_agent_stack`: describe an agent in plain text and get the cheapest option with a cited price per component
+- Read-only MCP server (`uvx lantern-works-deals-mcp`, MIT) with 7 tools, including `optimize_agent_stack` (describe an agent in plain text, get the cheapest option with a cited price per component) and `get_price_changes` (daily GPU price moves since a date, each with the vendor source URL)
 - Comparison pages show only vendor-verified pricing; unverified prices are marked unknown
 - Disclosure: many listings are affiliate links; each entry carries an `affiliate` flag
 
